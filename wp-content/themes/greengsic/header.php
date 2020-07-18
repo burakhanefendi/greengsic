@@ -36,3 +36,5 @@
 
 <?php wp_footer(); ?>
 <body>
+
+<?php include('section/header.php') ?>
