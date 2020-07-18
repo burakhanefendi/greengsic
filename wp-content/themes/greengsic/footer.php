@@ -88,6 +88,10 @@
 
 <script src="<?=get_template_directory_uri(); ?>/js/compressed.js"></script>
 <script src="<?=get_template_directory_uri(); ?>/js/main.js"></script>
+<script src="<?=get_template_directory_uri(); ?>/js/jquery.touchSwipe.min.js"></script>
+
+<!--======= Customize =========-->
+<script src="<?=get_template_directory_uri(); ?>/js/responsive_bootstrap_carousel.min.js"></script>
 
 
 </body>

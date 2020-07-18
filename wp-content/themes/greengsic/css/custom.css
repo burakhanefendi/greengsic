@@ -1,0 +1,7 @@
+.header_white .sf-menu > li > a:hover, .header_white .sf-menu > li.active > a {
+    color: #00a651 !important;
+}
+.sf-menu ul a:hover,
+.sf-menu ul li.active > a {
+    color: #00a651 !important;
+}
