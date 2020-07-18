@@ -7,7 +7,7 @@
 <!--<![endif]-->
 
 <head>
-    <title>Social Activism</title>
+    <title><?php wp_title( '-', true, 'right' ); ?><?php bloginfo('name'); ?></title>
     <meta charset="utf-8">
     <!--[if IE]>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -21,7 +21,7 @@
     <link rel="stylesheet" href="<?=get_template_directory_uri(); ?>/css/animations.css">
     <link rel="stylesheet" href="<?=get_template_directory_uri(); ?>/css/fonts.css">
     <link rel="stylesheet" href="<?=get_template_directory_uri(); ?>/css/main.css?ver=1" class="color-switcher-link">
-    <link rel="stylesheet" href="<?=get_template_directory_uri(); ?>/css/custom.css?ver=1">
+    <link rel="stylesheet" href="<?=get_template_directory_uri(); ?>/css/custom.css?ver=2">
     <link href="<?=get_template_directory_uri(); ?>/css/animate.min.css" rel="stylesheet">
 
     <!--======= Responsive Bootstrap Carousel StyleSheets =========-->

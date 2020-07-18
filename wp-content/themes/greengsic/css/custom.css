@@ -12,3 +12,6 @@
 .section_header {
     text-transform: capitalize !important;
 }
+.ls a {
+    color: #00a651 !important;
+}

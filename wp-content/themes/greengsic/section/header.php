@@ -99,7 +99,7 @@
                     <!-- main nav start -->
                     <nav class="mainmenu_wrapper">
                         <ul class="mainmenu nav sf-menu">
-                            <li class="active">
+                            <li>
                                 <a href="/">Anasayfa</a>
                             </li>
 
