@@ -14,11 +14,18 @@
 			<section class="ls page_portfolio section section_padding_bottom_10 columns_padding_25 columns_margin_bottom_30">
 				<div class="container">
 					<div class="row">
-						<div class="col-md-12">
+                        <div class="col-md-6 col-md-push-6">
+                            <?php $thumb = wp_get_attachment_image_src( get_post_thumbnail_id($post->ID), 'full'); ?>
+                            <img src="<?php echo $thumb['0'];?>" alt="">
+                        </div>
+                        <div class="col-md-6 col-md-pull-6">
+                            <h2 class="section_header thin">
+                                <?php the_title();?>
+                            </h2>
                             <p><?php the_content();?></p>
                             <?php endwhile; else : ?>
                             <p><?php _e( 'Sorry, no posts matched your criteria.' ); ?></p>
-						</div>
+                        </div>
 					</div>
 				</div>
                 <?php endif; ?>
