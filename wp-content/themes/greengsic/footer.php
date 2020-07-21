@@ -51,7 +51,7 @@
 
                     <p>
                         <i class="fa fa-map-marker highlight rightpadding_5" aria-hidden="true"></i> Future Park Istanbul<br>
-                        Akevler Mah., 1069. Sok., No:9I, E-block 17kat D141 Esenyurt,
+                        Akevler Mah., 1069. Sok., No:9I, E-block 17. kat D141 Esenyurt,
                         İstanbul, Turkey
                     </p>
                     <p>
