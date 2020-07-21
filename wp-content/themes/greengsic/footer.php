@@ -4,14 +4,14 @@
 
             <div class="col-md-4 col-sm-12 text-center to_animate" data-animation="fadeInUp">
                 <div class="widget">
-                    <a href="./" class="logo top_logo text-left bottommargin_30">
-                        <img src="<?php get_template_directory_uri(); ?>/images/logo.png" alt="">
-                        <span class="logo_text">
-										Social
-										<strong>Activism</strong>
-									</span>
+                    <a href="/" class="logo top_logo">
+                        <?php $custom_logo_id = get_theme_mod( 'custom_logo' );
+                        $custom_logo_url = wp_get_attachment_image_url( $custom_logo_id , 'full' );
+                        echo '<img src="' . esc_url( $custom_logo_url ) . '" alt="">'; ?>
                     </a>
-                    <p>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren takimata sanctus est Lorem ipsum dolor sit amet lorem ipsum dolor amet, consetetur sadipscing elitred diam nonumy eirmod tempor invidunt.</p>
+                    <p>
+                        2014 yılında İstanbul’da kurulan GREENSGIC, Gayrimenkul, Sanayi, Endüstriyel, yumuşak ürünler ve gıda ürünleri konusunda uzmanlaşmıştır.
+                    </p>
 
                     <div class="topmargin_30">
                         <a class="social-icon color-icon soc-facebook" href="#" title="Facebook"></a>
@@ -25,22 +25,22 @@
 
             <div class="col-md-4 col-sm-6 text-center to_animate" data-animation="fadeInUp">
                 <div class="widget widget_contact topmargin_20">
-                    <h3 class="widget-title">Mailing form</h3>
+                    <h3 class="widget-title">İLETİŞİM FORMU</h3>
                     <form class="contact-form topmargin_45" method="post" action="./">
                         <p class="form-group">
-                            <label for="footer-name">Name <span class="required">*</span></label>
-                            <input type="text" aria-required="true" size="30" value="" name="name" id="footer-name" class="form-control text-center" placeholder="Full Name">
+                            <label for="footer-name">Adınız <span class="required">*</span></label>
+                            <input type="text" aria-required="true" size="30" value="" name="name" id="footer-name" class="form-control text-center" placeholder="Ad Soyad">
                         </p>
                         <p class="form-group">
                             <label for="footer-email">Email <span class="required">*</span></label>
-                            <input type="email" aria-required="true" size="30" value="" name="email" id="footer-email" class="form-control text-center" placeholder="Email Address">
+                            <input type="email" aria-required="true" size="30" value="" name="email" id="footer-email" class="form-control text-center" placeholder="Email Adres">
                         </p>
                         <p class="form-group">
-                            <label for="footer-message">Message</label>
-                            <textarea aria-required="true" rows="3" cols="45" name="message" id="footer-message" class="form-control text-center" placeholder="Your Message"></textarea>
+                            <label for="footer-message">Mesajınız</label>
+                            <textarea aria-required="true" rows="3" cols="45" name="message" id="footer-message" class="form-control text-center" placeholder="Mesajınız"></textarea>
                         </p>
                         <p class="footer_contact-form-submit topmargin_40">
-                            <button type="submit" id="footer_contact_form_submit" name="contact_submit" class="theme_button color1">Send Message</button>
+                            <button type="submit" id="footer_contact_form_submit" name="contact_submit" class="theme_button color1">Gönder</button>
                         </p>
                     </form>
                 </div>
@@ -49,19 +49,18 @@
             <div class="col-md-4 col-sm-6 text-center to_animate" data-animation="fadeInUp">
 
                 <div class="widget widget_contacts topmargin_20">
-                    <h3 class="widget-title">Mailing form</h3>
+                    <h3 class="widget-title">İLETİŞİM BİLGİLERİMİZ</h3>
 
                     <p>
-                        <i class="fa fa-map-marker highlight rightpadding_5" aria-hidden="true"></i> 140 Horizon Circle, San Diego, CA
+                        <i class="fa fa-map-marker highlight rightpadding_5" aria-hidden="true"></i> Future Park Istanbul<br>
+                        Akevler Mah., 1069. Sok., No:9I, E-block 17kat D141<br> Esenyurt,
+                        İstanbul, Turkey
                     </p>
                     <p>
-                        <i class="fa fa-phone highlight rightpadding_5" aria-hidden="true"></i> 1-888-123-4567
+                        <i class="fa fa-phone highlight rightpadding_5" aria-hidden="true"></i> +90 543 410 80 58
                     </p>
                     <p>
-                        <i class="fa fa-print highlight rightpadding_5" aria-hidden="true"></i> 1-888-123-4567
-                    </p>
-                    <p>
-                        <i class="fa fa-envelope highlight rightpadding_5" aria-hidden="true"></i> <a href="mailto:your@mail.com">social@example.com</a>
+                        <i class="fa fa-envelope highlight rightpadding_5" aria-hidden="true"></i> <a href="mailto:info@greensgic.com">info@greensgic.com</a>
                     </p>
 
                 </div>

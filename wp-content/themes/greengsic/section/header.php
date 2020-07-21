@@ -7,21 +7,6 @@
 </div>
 
 <!-- search modal -->
-<div class="modal" tabindex="-1" role="dialog" aria-labelledby="search_modal" id="search_modal">
-    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-			<span aria-hidden="true">
-				<i class="rt-icon2-cross2"></i>
-			</span>
-    </button>
-    <div class="widget widget_search">
-        <form method="get" class="searchform search-form form-inline" action="./">
-            <div class="form-group">
-                <input type="text" value="" name="search" class="form-control" placeholder="Search keyword" id="modal-search-input">
-            </div>
-            <button type="submit" class="theme_button">Search</button>
-        </form>
-    </div>
-</div>
 
 <!-- Unyson messages modal -->
 <div class="modal fade" tabindex="-1" role="dialog" id="messages_modal">
@@ -50,11 +35,11 @@
                         <div class="inline-content darklinks">
 								<span>
 									<i class="fa fa-phone highlight rightpadding_5" aria-hidden="true"></i>
-									(800) 123 4567
+									+90 543 410 80 58
 								</span>
                             <span class="small-text">
 									<i class="fa fa-envelope highlight rightpadding_5" aria-hidden="true"></i>
-									<a href="#">social@example.com</a>
+									<a href="#">info@greensgic.com</a>
 								</span>
                         </div>
                     </div>
@@ -67,19 +52,7 @@
                             <a class="social-icon color-icon soc-youtube" href="#" title="Youtube"></a>
                         </div>
                     </div>
-                    <div class="col-sm-6 text-center text-sm-right">
-                        <div class="widget widget_search inline-block">
-                            <form method="get" class="searchform form-inline" action="./">
-                                <div class="form-group-wrap">
-                                    <div class="form-group margin_0">
-                                        <label class="sr-only" for="topline-search">Search for:</label>
-                                        <input id="topline-search" type="text" value="" name="search" class="form-control" placeholder="Search Keyword">
-                                    </div>
-                                    <button type="submit" class="theme_button color1 no_bg_button">Search</button>
-                                </div>
-                            </form>
-                        </div>
-                    </div>
+
                 </div>
             </div>
         </section>
@@ -134,83 +107,36 @@
                                         <a href="/gida">Gıda</a>
                                     </li>
                                     <li>
-                                        <a href="#">Tarım</a>
+                                        <a href="/tarim">Tarım</a>
                                     </li>
 
                                     <li>
-                                        <a href="#">Yatırım Danışmanlığı</a>
-                                        <ul>
-                                            <li>
-                                                <a href="#">Yurtdışı Yatırım</a>
-                                                <a href="#">Yurtiçi Yatırım</a>
-                                            </li>
-                                        </ul>
+                                        <a href="/yatirim-danismanligi">Yatırım Danışmanlığı</a>
                                     </li>
 
                                     <li>
-                                        <a href="#">Enerji</a>
-                                        <ul>
-                                            <li>
-                                                <a href="#">Güneş Paneli</a>
-                                                <a href="#">Jeneratör</a>
-                                            </li>
-                                        </ul>
+                                        <a href="/enerji-2">Enerji</a>
                                     </li>
                                     <li>
-                                        <a href="#">Otomotiv</a>
-                                        <ul>
-                                            <li>
-                                                <a href="#">Otomotiv </a>
-                                                <a href="#">İş MakineIeri </a>
-                                                <a href="#">Endüstriyel Ekipmanlar</a>
-                                            </li>
-                                        </ul>
+                                        <a href="/otomotiv-2">Otomotiv</a>
                                     </li>
                                     <li>
-                                        <a href="#">İnşaat Altyapı</a>
+                                        <a href="/insaat-altyapi">İnşaat Altyapı</a>
                                     </li>
                                     <li>
-                                        <a href="#">Sağlık Turizmi</a>
-                                        <ul>
-                                            <li>
-                                                <a href="#">Sağlık Turizmi</a>
-                                            </li>
-                                            <li>
-                                                <a href="#">Sağlık Ekipmanları</a>
-                                            </li>
-                                        </ul>
+                                        <a href="/saglik-turizmi">Sağlık Turizmi</a>
                                     </li>
                                     <li>
-                                        <a href="#">Eğitim</a>
-                                        <ul>
-                                            <li>
-                                                <a href="#">Eğitim Danışmanlığı</a>
-                                            </li>
-                                            <li>
-                                                <a href="#">Oturum ve Konaklama Desteği</a>
-                                            </li>
-                                        </ul>
+                                        <a href="/egitim-2">Eğitim</a>
                                     </li>
                                     <li>
-                                        <a href="#">Turizm</a>
-                                        <ul>
-                                            <li>
-                                                <a href="#">Kültürel Turizm</a>
-                                            </li>
-                                        </ul>
+                                        <a href="/turizm-2">Turizm</a>
                                     </li>
                                     <li>
-                                        <a href="#">Tekstil</a>
+                                        <a href="/tekstil">Tekstil</a>
                                     </li>
                                     <li>
-                                        <a href="#">Lojistic</a>
-                                        <ul>
-                                            <li>
-                                                <a href="#">Gemi Taşımacılığı</a>
-                                                <a href="#">Uçak Taşımacılığı</a>
-                                                <a href="#">Kara Taşımacılığı</a>
-                                            </li>
-                                        </ul>
+                                        <a href="/lojistik">Lojistic</a>
                                     </li>
                                 </ul>
 
