@@ -8,7 +8,7 @@
                         <img src="/wp-content/uploads/2020/07/disi_Iogo.png">
                     </a>
                     <p>
-                        2014 yılında İstanbul’da kurulan GREENSGIC, Gayrimenkul, Sanayi, Endüstriyel, yumuşak ürünler ve gıda ürünleri konusunda uzmanlaşmıştır.
+                        2014 yılında İstanbul’da kurulan GREENGSIC, Gayrimenkul, Sanayi, Endüstriyel, yumuşak ürünler ve gıda ürünleri konusunda uzmanlaşmıştır.
                     </p>
 
                     <div class="topmargin_30">
