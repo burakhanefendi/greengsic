@@ -58,7 +58,7 @@
                         <i class="fa fa-phone highlight rightpadding_5" aria-hidden="true"></i> +90 543 410 80 58
                     </p>
                     <p>
-                        <i class="fa fa-envelope highlight rightpadding_5" aria-hidden="true"></i> <a href="mailto:info@greensgic.com">info@greensgic.com</a>
+                        <i class="fa fa-envelope highlight rightpadding_5" aria-hidden="true"></i> <a href="mailto:info@greengsic.com">info@greenngsic.com</a>
                     </p>
 
                 </div>
@@ -72,7 +72,7 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-12 text-center">
-                <a class="small-text bold">&copy; Copyright 2020 All Rights Reserved | Designer <a href="https://espassistanbul.com">Espass İstanbul</a></p>
+                <p class="small-text bold">&copy; Copyright 2020 All Rights Reserved | Designer <a href="https://espassistanbul.com">Espass İstanbul</a></p>
             </div>
         </div>
     </div>
