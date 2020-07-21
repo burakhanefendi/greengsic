@@ -84,7 +84,7 @@
         <ul class="slides">
 
             <li>
-                <img src="/wp-content/uploads/2020/07/ana-sayfa-harita.jpg" alt="">
+                <img src="/wp-content/uploads/2020/07/harita.png" alt="">
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-12">
