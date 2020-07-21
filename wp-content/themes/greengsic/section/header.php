@@ -131,7 +131,7 @@
                                         <a href="/urunlere-genel-bakis/">Ürünlere Genel Bakış</a>
                                     </li>
                                     <li>
-                                        <a href="#">Gıda</a>
+                                        <a href="/gida">Gıda</a>
                                     </li>
                                     <li>
                                         <a href="#">Tarım</a>

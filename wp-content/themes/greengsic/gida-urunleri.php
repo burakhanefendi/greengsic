@@ -89,24 +89,150 @@ get_header(); ?>
                         <i class="fa fa-thumbs-o-up"  style="font-size: 60px"></i>
                     </div>
                     <h4 class="text-uppercase text-center">
-                        Kuvvet
+                       Yemeklik Yağlar
                     </h4>
                     <p>
                     <ul style="text-align: left">
                         <li>
-                            Kaliteye özel önem veren, tutarlı tedarik sağlayan özel ve profesyonel personel.
+                            RBD Palmiye Yağı
                         </li>
                         <li>
-                            Eşsiz ve Eşsiz Lojistik Sistemi. Faaliyet gösterdiği bölgelerde depolama ve depolama düzenlemelerine sahip olmak.
+                            Ham Ayçiçek Yağı
                         </li>
                         <li>
-                            Bölgesel pazarlarda yılların deneyimi.
+                            Ham Degummed Mısır Yağı
                         </li>
                         <li>
-                            Müşteri memnuniyetine dayalı güvenilir pazar payı.
+                            Soya Yağı
+                        </li>
+                    </ul>
+                    </p>
+
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="teaser with_border text-center">
+                    <div class="teaser_icon highlight size_small">
+                        <i class="fa fa-thumbs-o-up"  style="font-size: 60px"></i>
+                    </div>
+                    <h4 class="text-uppercase text-center">
+                        Taneler
+                    </h4>
+                    <p>
+                    <ul style="text-align: left">
+                        <li>
+                            Pirinç
                         </li>
                         <li>
-                            Faaliyet gösterdiği alanlarda müşterileri ile güçlü ortaklık ve işbirliği.
+                            Buğday
+                        </li>
+                        <li>
+                            Ay Çekirdeği
+                        </li>
+                        <li>
+                            Soya Tohumları
+                        </li>
+                    </ul>
+                    </p>
+
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="teaser with_border text-center">
+                    <div class="teaser_icon highlight size_small">
+                        <i class="fa fa-thumbs-o-up"  style="font-size: 60px"></i>
+                    </div>
+                    <h4 class="text-uppercase text-center">
+                        Çay (Çay Taprakları ve Poşetleri)
+                    </h4>
+                    <p>
+                    <ul style="text-align: left">
+                        <li>
+                            Hindistan
+                        </li>
+                        <li>
+                            Sri-Lanka
+                        </li>
+                    </ul>
+                    </p>
+
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="teaser with_border text-center">
+                    <div class="teaser_icon highlight size_small">
+                        <i class="fa fa-thumbs-o-up"  style="font-size: 60px"></i>
+                    </div>
+                    <h4 class="text-uppercase text-center">
+                        Rendelenmiş Hindistan Cevizi Tozu
+                    </h4>
+                    <p>
+                    <ul style="text-align: left">
+                        <li>
+                            Sri-Lanka
+                        </li>
+                    </ul>
+                    </p>
+
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="teaser with_border text-center">
+                    <div class="teaser_icon highlight size_small">
+                        <i class="fa fa-thumbs-o-up"  style="font-size: 60px"></i>
+                    </div>
+                    <h4 class="text-uppercase text-center">
+                        Tuz
+                    </h4>
+                    <p>
+                    <ul style="text-align: left">
+                        <li>
+                            Pakistan
+                        </li>
+                    </ul>
+                    </p>
+
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="teaser with_border text-center">
+                    <div class="teaser_icon highlight size_small">
+                        <i class="fa fa-thumbs-o-up"  style="font-size: 60px"></i>
+                    </div>
+                    <h4 class="text-uppercase text-center">
+                        Ultra Choco
+                    </h4>
+                    <p>
+                    <ul style="text-align: left">
+                        <li>
+                            Malezya
+                        </li>
+                        <li>
+                            Endonezya
+                        </li>
+                        <li>
+                            Ukrayna
+                        </li>
+                    </ul>
+                    </p>
+
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="teaser with_border text-center">
+                    <div class="teaser_icon highlight size_small">
+                        <i class="fa fa-thumbs-o-up"  style="font-size: 60px"></i>
+                    </div>
+                    <h4 class="text-uppercase text-center">
+                        Soya Unu
+                    </h4>
+                    <p>
+                    <ul style="text-align: left">
+                        <li>
+                            Brezilya
+                        </li>
+                        <li>
+                            Arjantin
                         </li>
                     </ul>
                     </p>
