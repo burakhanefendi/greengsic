@@ -39,7 +39,7 @@
 								</span>
                             <span class="small-text">
 									<i class="fa fa-envelope highlight rightpadding_5" aria-hidden="true"></i>
-									<a href="#">info@greensgic.com</a>
+									<a href="#">info@greengsic.com</a>
 								</span>
                         </div>
                     </div>
