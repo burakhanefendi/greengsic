@@ -41,7 +41,7 @@ get_header(); ?>
             <div class="col-md-4">
                 <div class="teaser with_border text-center">
                     <div class="teaser_icon highlight size_small">
-                        <img src="/wp-content/uploads/2020/07/yag.png">
+                        <img src="/wp-content/uploads/2020/07/yag.jpg">
                     </div>
                     <h4 class="text-uppercase text-center">
                         Sıvı Yağlar ve Katı Yağlar
@@ -52,7 +52,7 @@ get_header(); ?>
             <div class="col-md-4">
                 <div class="teaser with_border text-center">
                     <div class="teaser_icon highlight size_small">
-                        <img src="/wp-content/uploads/2020/07/kompostooo.jpg">
+                        <img src="/wp-content/uploads/2020/07/kompostooo-1.jpg">
                     </div>
                     <h4 class="text-uppercase text-center">
                         Komposto ve Meyve Suları
@@ -64,7 +64,7 @@ get_header(); ?>
             <div class="col-md-4">
                 <div class="teaser with_border text-center">
                     <div class="teaser_icon highlight size_small">
-                        <img src="/wp-content/uploads/2020/07/makarnaaaaa.jpg">
+                        <img src="/wp-content/uploads/2020/07/makarnaaaaa-1.jpgg">
                     </div>
                     <h4 class="text-uppercase text-center">
                         Makarna
@@ -78,7 +78,7 @@ get_header(); ?>
             <div class="col-md-4">
                 <div class="teaser with_border text-center">
                     <div class="teaser_icon highlight size_small">
-                        <img src="/wp-content/uploads/2020/07/princ-1.jpg">
+                        <img src="/wp-content/uploads/2020/07/princ.jpg">
                     </div>
                     <h4 class="text-uppercase text-center">
                         Pirinç
@@ -88,7 +88,7 @@ get_header(); ?>
             <div class="col-md-4">
                 <div class="teaser with_border text-center">
                     <div class="teaser_icon highlight size_small">
-                        <img src="/wp-content/uploads/2020/07/seker-2.jpg">
+                        <img src="/wp-content/uploads/2020/07/seker-3.jpg">
                     </div>
                     <h4 class="text-uppercase text-center">
                         Şeker
@@ -98,7 +98,7 @@ get_header(); ?>
             <div class="col-md-4">
                 <div class="teaser with_border text-center">
                     <div class="teaser_icon highlight size_small">
-                        <img src="/wp-content/uploads/2020/07/cay.jpg">
+                        <img src="/wp-content/uploads/2020/07/cay-1.jpg">
                     </div>
                     <h4 class="text-uppercase text-center">
                         Çay
@@ -109,7 +109,7 @@ get_header(); ?>
             <div class="col-md-4">
                 <div class="teaser with_border text-center">
                     <div class="teaser_icon highlight size_small">
-                        <img src="/wp-content/uploads/2020/07/salca-1.png">
+                        <img src="/wp-content/uploads/2020/07/salca.jpg">
                     </div>
                     <h4 class="text-uppercase text-center">
                         Salça
@@ -119,7 +119,7 @@ get_header(); ?>
             <div class="col-md-4">
                 <div class="teaser with_border text-center">
                     <div class="teaser_icon highlight size_small">
-                        <img src="/wp-content/uploads/2020/07/konserve_08-1.jpg">
+                        <img src="/wp-content/uploads/2020/07/konserve_08.jpg">
                     </div>
                     <h4 class="text-uppercase text-center">
                         Konserve
