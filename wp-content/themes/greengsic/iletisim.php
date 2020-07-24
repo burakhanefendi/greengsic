@@ -82,7 +82,7 @@ get_header(); ?>
                     <i class="fa fa-phone highlight rightpadding_5" aria-hidden="true"></i>  +90 543 410 80 58
                 </p>
                 <p class="greylinks">
-                    <i class="fa fa-envelope highlight rightpadding_5" aria-hidden="true"></i> <a href="mailto:info@greenngsic.com">info@greenngsic.com</a>
+                    <i class="fa fa-envelope highlight rightpadding_5" aria-hidden="true"></i> <a href="mailto:info@greengsic.com">info@greengsic.com</a>
                 </p>
 
             </div>
