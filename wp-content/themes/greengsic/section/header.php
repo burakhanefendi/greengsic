@@ -152,13 +152,13 @@
 
                             <!-- blog -->
                             <li>
-                                <a href="blog-right.html">Tesisler</a>
+                                <a href="#">Tesisler</a>
                             </li>
                             <!-- eof blog -->
 
                             <!-- contacts -->
                             <li>
-                                <a href="contact.html">Bize Ulaşın</a>
+                                <a href="iletisim">Bize Ulaşın</a>
                             </li>
                             <!-- eof contacts -->
                         </ul>
