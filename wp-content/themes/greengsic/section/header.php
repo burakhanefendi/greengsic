@@ -156,13 +156,13 @@
 
                             <!-- gallery -->
                             <li>
-                                <a href="#">Markalar</a>
+                                <a href="/markalar">Markalar</a>
                             </li>
                             <!-- eof Gallery -->
 
                             <!-- blog -->
                             <li>
-                                <a href="#">Tesisler</a>
+                                <a href="/tesisler">Tesisler</a>
                             </li>
                             <!-- eof blog -->
 
