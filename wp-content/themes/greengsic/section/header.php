@@ -39,7 +39,7 @@
 								</span>
                             <span class="small-text">
 									<i class="fa fa-envelope highlight rightpadding_5" aria-hidden="true"></i>
-									<a href="#">info@greengsic.com</a>
+									<a href="#" style="text-transform: lowercase">info@greengsic.com</a>
 								</span>
                         </div>
                     </div>
@@ -51,6 +51,15 @@
                             <a class="social-icon color-icon soc-skype" href="#" title="Skype"></a>
                             <a class="social-icon color-icon soc-youtube" href="#" title="Youtube"></a>
                         </div>
+                    </div>
+                    <div class="col-sm-4 text-center">
+                        <!-- Example single danger button -->
+                        <select class="selectpicker" data-width="fit" style="color: #ffffff;">
+                            <option data-content='<span class="flag-icon flag-icon-us"></span> English'>Türkçe</option>
+                            <option  data-content='<span class="flag-icon flag-icon-mx"></span> Español'>İngilizce</option>
+                            <option  data-content='<span class="flag-icon flag-icon-mx"></span> Español'>Arapça</option>
+
+                        </select>
                     </div>
 
                 </div>
