@@ -54,7 +54,7 @@
         <div class="col-md-4">
             <div class="teaser with_border text-center">
                 <div class="teaser_icon highlight size_small">
-                    <img src="/wp-content/uploads/2020/07/kontrol.jpg">
+                    <img src="/wp-content/uploads/2020/07/muhane-1.jpg">
                 </div>
                 <h4 class="text-uppercase text-center">
                     MUAYENE HİZMETLERİ
@@ -69,7 +69,7 @@
         <div class="col-md-4">
             <div class="teaser with_border text-center">
                 <div class="teaser_icon highlight size_small">
-                    <img src="/wp-content/uploads/2020/07/denistasimaciligi.jpg">
+                    <img src="/wp-content/uploads/2020/07/denistasimaciligi-1.jpg">
                 </div>
                 <h4 class="text-uppercase text-center">
                     TOPLU GEMİ VE KONTEYNER TAŞIMA
@@ -84,7 +84,7 @@
         <div class="col-md-4">
             <div class="teaser with_border text-center">
                 <div class="teaser_icon highlight size_small">
-                    <img src="/wp-content/uploads/2020/07/karatasimaciligi.jpg">
+                    <img src="/wp-content/uploads/2020/07/karatasimaciligi-1.jpg">
                 </div>
                 <h4 class="text-uppercase text-center">
                     BOŞALTMA İŞLEMLERİ
