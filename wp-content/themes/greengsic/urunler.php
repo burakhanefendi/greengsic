@@ -52,13 +52,13 @@ get_header(); ?>
                     <div class="item-media top_rounded overflow_hidden">
                         <img src="/wp-content/uploads/2020/07/istockphoto-172402388-612x612.jpg" style="max-height: 140px" alt="">
                         <div class="media-links">
-                            <a href="blog-single-right.html" class="abs-link"></a>
+                            <a href="/gida/" class="abs-link"></a>
                         </div>
                     </div>
                     <div class="item-content">
                         <header class="entry-header">
                             <h5 class="entry-title">
-                                <a href="blog-single-right.html">Gıda Ürünleri</a>
+                                <a href="/gida/">Gıda Ürünleri</a>
                             </h5>
                         </header>
                         <div class="entry-content">
@@ -66,7 +66,7 @@ get_header(); ?>
                         </div>
                     </div>
                     <footer class="entry-meta with_top_border darklinks">
-                        <a class="btn btn-default btn-lg" href="#">Detaylı Bilgi</a>
+                        <a class="btn btn-default btn-lg" href="/gida/">Detaylı Bilgi</a>
                     </footer>
                 </article>
 
@@ -105,13 +105,13 @@ get_header(); ?>
                     <div class="item-media top_rounded overflow_hidden">
                         <img src="/wp-content/uploads/2020/07/tarım.jpg" style="max-height: 140px" alt="">
                         <div class="media-links">
-                            <a href="blog-single-right.html" class="abs-link"></a>
+                            <a href="/tarim/" class="abs-link"></a>
                         </div>
                     </div>
                     <div class="item-content">
                         <header class="entry-header">
                             <h5 class="entry-title">
-                                <a href="blog-single-right.html">Tarım</a>
+                                <a href="/tarim/">Tarım</a>
                             </h5>
                         </header>
                         <div class="entry-content">
@@ -119,7 +119,7 @@ get_header(); ?>
                         </div>
                     </div>
                     <footer class="entry-meta with_top_border darklinks">
-                        <a class="btn btn-default btn-lg" href="#">Detaylı Bilgi</a>
+                        <a class="btn btn-default btn-lg" href="/tarim/">Detaylı Bilgi</a>
                     </footer>
                 </article>
 
@@ -130,13 +130,13 @@ get_header(); ?>
                     <div class="item-media top_rounded overflow_hidden">
                         <img src="/wp-content/uploads/2020/07/qweqwe.jpg" style="max-height: 140px" alt="">
                         <div class="media-links">
-                            <a href="blog-single-right.html" class="abs-link"></a>
+                            <a href="/yatirim-danismanligi/" class="abs-link"></a>
                         </div>
                     </div>
                     <div class="item-content">
                         <header class="entry-header">
                             <h5 class="entry-title">
-                                <a href="blog-single-right.html">Yatırım Danışmanlığı</a>
+                                <a href="/yatirim-danismanligi/">Yatırım Danışmanlığı</a>
                             </h5>
                         </header>
                         <div class="entry-content">
@@ -144,7 +144,7 @@ get_header(); ?>
                         </div>
                     </div>
                     <footer class="entry-meta with_top_border darklinks">
-                        <a class="btn btn-default btn-lg" href="#">Detaylı Bilgi</a>
+                        <a class="btn btn-default btn-lg" href="/yatirim-danismanligi/">Detaylı Bilgi</a>
                     </footer>
                 </article>
 
@@ -155,13 +155,13 @@ get_header(); ?>
                     <div class="item-media top_rounded overflow_hidden">
                         <img src="/wp-content/uploads/2020/07/enerji.jpg" style="max-height: 140px" alt="">
                         <div class="media-links">
-                            <a href="blog-single-right.html" class="abs-link"></a>
+                            <a href="/enerji-2/" class="abs-link"></a>
                         </div>
                     </div>
                     <div class="item-content">
                         <header class="entry-header">
                             <h5 class="entry-title">
-                                <a href="blog-single-right.html">Enerji</a>
+                                <a href="/enerji-2/">Enerji</a>
                             </h5>
                         </header>
                         <div class="entry-content">
@@ -170,7 +170,7 @@ get_header(); ?>
                         </div>
                     </div>
                     <footer class="entry-meta with_top_border darklinks">
-                        <a class="btn btn-default btn-lg" href="#">Detaylı Bilgi</a>
+                        <a class="btn btn-default btn-lg" href="/enerji-2/">Detaylı Bilgi</a>
                     </footer>
                 </article>
 
@@ -182,13 +182,13 @@ get_header(); ?>
                     <div class="item-media top_rounded overflow_hidden">
                         <img src="/wp-content/uploads/2020/07/otomotiv.jpg" style="max-height: 140px" alt="">
                         <div class="media-links">
-                            <a href="blog-single-right.html" class="abs-link"></a>
+                            <a href="/otomotiv-2/" class="abs-link"></a>
                         </div>
                     </div>
                     <div class="item-content">
                         <header class="entry-header">
                             <h5 class="entry-title">
-                                <a href="blog-single-right.html">Otomotiv</a>
+                                <a href="/otomotiv-2/">Otomotiv</a>
                             </h5>
                         </header>
                         <div class="entry-content">
@@ -197,7 +197,7 @@ get_header(); ?>
                         </div>
                     </div>
                     <footer class="entry-meta with_top_border darklinks">
-                        <a class="btn btn-default btn-lg" href="#">Detaylı Bilgi</a>
+                        <a class="btn btn-default btn-lg" href="/otomotiv-2/">Detaylı Bilgi</a>
                     </footer>
                 </article>
 
@@ -209,13 +209,13 @@ get_header(); ?>
                     <div class="item-media top_rounded overflow_hidden">
                         <img src="/wp-content/uploads/2020/07/VOdSmNdjuj.jpg" style="max-height: 140px" alt="">
                         <div class="media-links">
-                            <a href="blog-single-right.html" class="abs-link"></a>
+                            <a href="/insaat-altyapi/" class="abs-link"></a>
                         </div>
                     </div>
                     <div class="item-content">
                         <header class="entry-header">
                             <h5 class="entry-title">
-                                <a href="blog-single-right.html">İnşaat Altyapı</a>
+                                <a href="/insaat-altyapi/">İnşaat Altyapı</a>
                             </h5>
                         </header>
                         <div class="entry-content">
@@ -226,7 +226,7 @@ get_header(); ?>
                         </div>
                     </div>
                     <footer class="entry-meta with_top_border darklinks">
-                        <a class="btn btn-default btn-lg" href="#">Detaylı Bilgi</a>
+                        <a class="btn btn-default btn-lg" href="/insaat-altyapi/">Detaylı Bilgi</a>
                     </footer>
                 </article>
 
@@ -237,13 +237,13 @@ get_header(); ?>
                     <div class="item-media top_rounded overflow_hidden">
                         <img src="/wp-content/uploads/2020/07/sagIık.jpg" style="max-height: 140px" alt="">
                         <div class="media-links">
-                            <a href="blog-single-right.html" class="abs-link"></a>
+                            <a href="/saglik-turizmi/" class="abs-link"></a>
                         </div>
                     </div>
                     <div class="item-content">
                         <header class="entry-header">
                             <h5 class="entry-title">
-                                <a href="blog-single-right.html">Sağlık Turizmi</a>
+                                <a href="/saglik-turizmi/">Sağlık Turizmi</a>
                             </h5>
                         </header>
                         <div class="entry-content">
@@ -252,7 +252,7 @@ get_header(); ?>
                         </div>
                     </div>
                     <footer class="entry-meta with_top_border darklinks">
-                        <a class="btn btn-default btn-lg" href="#">Detaylı Bilgi</a>
+                        <a class="btn btn-default btn-lg" href="/saglik-turizmi/">Detaylı Bilgi</a>
                     </footer>
                 </article>
 
@@ -263,13 +263,13 @@ get_header(); ?>
                     <div class="item-media top_rounded overflow_hidden">
                         <img src="/wp-content/uploads/2020/07/egitim.jpg" style="max-height: 140px" alt="">
                         <div class="media-links">
-                            <a href="blog-single-right.html" class="abs-link"></a>
+                            <a href="/egitim-2/" class="abs-link"></a>
                         </div>
                     </div>
                     <div class="item-content">
                         <header class="entry-header">
                             <h5 class="entry-title">
-                                <a href="blog-single-right.html">Eğitim</a>
+                                <a href="/egitim-2/">Eğitim</a>
                             </h5>
                         </header>
                         <div class="entry-content">
@@ -277,7 +277,7 @@ get_header(); ?>
                         </div>
                     </div>
                     <footer class="entry-meta with_top_border darklinks">
-                        <a class="btn btn-default btn-lg" href="#">Detaylı Bilgi</a>
+                        <a class="btn btn-default btn-lg" href="/egitim-2/">Detaylı Bilgi</a>
                     </footer>
                 </article>
 
@@ -289,13 +289,13 @@ get_header(); ?>
                     <div class="item-media top_rounded overflow_hidden">
                         <img src="/wp-content/uploads/2020/07/turizm.jpg" style="max-height: 140px" alt="">
                         <div class="media-links">
-                            <a href="blog-single-right.html" class="abs-link"></a>
+                            <a href="/turizm-2/" class="abs-link"></a>
                         </div>
                     </div>
                     <div class="item-content">
                         <header class="entry-header">
                             <h5 class="entry-title">
-                                <a href="blog-single-right.html">Turizm</a>
+                                <a href="/turizm-2/">Turizm</a>
                             </h5>
                         </header>
                         <div class="entry-content">
@@ -304,7 +304,7 @@ get_header(); ?>
                         </div>
                     </div>
                     <footer class="entry-meta with_top_border darklinks">
-                        <a class="btn btn-default btn-lg" href="#">Detaylı Bilgi</a>
+                        <a class="btn btn-default btn-lg" href="/turizm-2/">Detaylı Bilgi</a>
                     </footer>
                 </article>
 
@@ -316,13 +316,13 @@ get_header(); ?>
                     <div class="item-media top_rounded overflow_hidden">
                         <img src="/wp-content/uploads/2020/07/tekstiIe.jpg" style="max-height: 140px" alt="">
                         <div class="media-links">
-                            <a href="blog-single-right.html" class="abs-link"></a>
+                            <a href="/tekstil/" class="abs-link"></a>
                         </div>
                     </div>
                     <div class="item-content">
                         <header class="entry-header">
                             <h5 class="entry-title">
-                                <a href="blog-single-right.html">Tekstil</a>
+                                <a href="/tekstil/">Tekstil</a>
                             </h5>
                         </header>
                         <div class="entry-content">
@@ -331,7 +331,7 @@ get_header(); ?>
                         </div>
                     </div>
                     <footer class="entry-meta with_top_border darklinks">
-                        <a class="btn btn-default btn-lg" href="#">Detaylı Bilgi</a>
+                        <a class="btn btn-default btn-lg" href="/tekstil/">Detaylı Bilgi</a>
                     </footer>
                 </article>
 
@@ -342,13 +342,13 @@ get_header(); ?>
                     <div class="item-media top_rounded overflow_hidden">
                         <img src="/wp-content/uploads/2020/07/Iojistik.jpg" style="max-height: 140px" alt="">
                         <div class="media-links">
-                            <a href="blog-single-right.html" class="abs-link"></a>
+                            <a href="/lojistik/" class="abs-link"></a>
                         </div>
                     </div>
                     <div class="item-content">
                         <header class="entry-header">
                             <h5 class="entry-title">
-                                <a href="blog-single-right.html">Lojistik</a>
+                                <a href="/lojistik/">Lojistik</a>
                             </h5>
                         </header>
                         <div class="entry-content">
@@ -357,7 +357,7 @@ get_header(); ?>
                         </div>
                     </div>
                     <footer class="entry-meta with_top_border darklinks">
-                        <a class="btn btn-default btn-lg" href="#">Detaylı Bilgi</a>
+                        <a class="btn btn-default btn-lg" href="/lojistik/">Detaylı Bilgi</a>
                     </footer>
                 </article>
 
