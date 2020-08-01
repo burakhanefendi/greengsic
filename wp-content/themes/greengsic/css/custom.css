@@ -60,3 +60,6 @@
 .vertical-item.content-padding .item-content {
     padding: 10px !important;
 }
+.submenu ul li a {
+    text-transform: capitalize;
+}

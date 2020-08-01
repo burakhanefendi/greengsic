@@ -83,7 +83,7 @@
                                 <a href="/">Anasayfa</a>
                             </li>
 
-                            <li>
+                            <li class="submenu">
                                 <a href="#">Hakkımızda</a>
                                 <ul>
                                     <li>
@@ -104,7 +104,7 @@
                             </li>
                             <!-- eof pages -->
 
-                            <li>
+                            <li class="submenu">
                                 <a href="#">Ürünler</a>
                                 <ul>
                                     <li>
