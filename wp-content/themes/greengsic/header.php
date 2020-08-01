@@ -31,6 +31,8 @@
     <script src="<?=get_template_directory_uri(); ?>/js/vendor/html5shiv.min.js"></script>
     <script src="<?=get_template_directory_uri(); ?>/js/vendor/respond.min.js"></script>
     <script src="<?=get_template_directory_uri(); ?>/js/vendor/jquery-1.12.4.min.js"></script>
+    <link href="<?=get_template_directory_uri(); ?>/css/full_width_animated_layers_001.css" rel="stylesheet" media="all">
+
     <?php wp_head(); ?>
 </head>
 

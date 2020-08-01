@@ -2,7 +2,7 @@
 
 <?=get_header(); ?>
 
-        <?php include('section/slider.php') ?>
+        <?php include('section/slider2.php') ?>
 
 
         <section class="ls section_padding_top_30 section_padding_bottom_150">

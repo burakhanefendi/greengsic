@@ -89,6 +89,7 @@
 
 <!--======= Customize =========-->
 <script src="<?=get_template_directory_uri(); ?>/js/responsive_bootstrap_carousel.min.js"></script>
+<script src="<?=get_template_directory_uri(); ?>/js/paradise_slider_min.js"></script>
 
 
 </body>
