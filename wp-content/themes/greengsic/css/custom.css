@@ -21,3 +21,6 @@
 .parallax.cs.gradient2:after {
     background: none !important;
 }
+.teaser_icon img {
+    height: 200px !important;
+}
