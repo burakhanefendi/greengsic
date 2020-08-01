@@ -41,7 +41,7 @@ get_header(); ?>
             <div class="col-md-4">
                 <div class="teaser with_border text-center">
                     <div class="teaser_icon highlight size_small">
-                        <img src="/wp-content/uploads/2020/07/seker-1.jpg">
+                        <img src="/wp-content/uploads/2020/07/seker2.jpg">
                     </div>
                     <h4 class="text-uppercase text-center">
                         ŞEKER
@@ -115,7 +115,7 @@ get_header(); ?>
             <div class="col-md-4">
                 <div class="teaser with_border text-center">
                     <div class="teaser_icon highlight size_small">
-                        <img src="/wp-content/uploads/2020/07/tane2.jpg">
+                        <img src="/wp-content/uploads/2020/07/taneIer-copy.jpg">
                     </div>
                     <h4 class="text-uppercase text-center">
                         Taneler
@@ -142,7 +142,7 @@ get_header(); ?>
             <div class="col-md-4">
                 <div class="teaser with_border text-center">
                     <div class="teaser_icon highlight size_small">
-                        <img src="/wp-content/uploads/2020/07/cay-2.jpg">
+                        <img src="/wp-content/uploads/2020/07/cay2222.jpg">
                     </div>
                     <h4 class="text-uppercase text-center">
                         Çay (Çay Yaprakları ve Poşetleri)
@@ -153,7 +153,7 @@ get_header(); ?>
             <div class="col-md-4">
                 <div class="teaser with_border text-center">
                     <div class="teaser_icon highlight size_small">
-                        <img src="/wp-content/uploads/2020/07/hind-ceviz.jpg">
+                        <img src="/wp-content/uploads/2020/07/rendeIenmis_hindistan_cevizi.jpg">
                     </div>
                     <h4 class="text-uppercase text-center">
                         Rendelenmiş Hindistan Cevizi Tozu
@@ -167,7 +167,7 @@ get_header(); ?>
             <div class="col-md-4">
                 <div class="teaser with_border text-center">
                     <div class="teaser_icon highlight size_small">
-                        <img src="/wp-content/uploads/2020/07/tuz.jpg">
+                        <img src="/wp-content/uploads/2020/07/tuz-2.jpg">
                     </div>
                     <h4 class="text-uppercase text-center">
                         Tuz
@@ -178,7 +178,7 @@ get_header(); ?>
             <div class="col-md-4">
                 <div class="teaser with_border text-center">
                     <div class="teaser_icon highlight size_small">
-                        <img src="/wp-content/uploads/2020/07/choco2.jpg">
+                        <img src="/wp-content/uploads/2020/07/kakao.jpg">
                     </div>
                     <h4 class="text-uppercase text-center">
                         Kakao
@@ -190,7 +190,7 @@ get_header(); ?>
             <div class="col-md-4">
                 <div class="teaser with_border text-center">
                     <div class="teaser_icon highlight size_small">
-                        <img src="/wp-content/uploads/2020/07/soya.png">
+                        <img src="/wp-content/uploads/2020/07/susam2.jpg">
                     </div>
                     <h4 class="text-uppercase text-center">
                         Susam
