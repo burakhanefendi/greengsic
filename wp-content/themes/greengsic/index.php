@@ -17,7 +17,7 @@
 
                                 <div class="col-md-6">
                                     <div class="item-media entry-thumbnail top_rounded overflow_hidden">
-                                        <img src="/wp-content/uploads/2020/07/140995.jpg" alt="">
+                                        <img src="/wp-content/uploads/2020/08/levent-yeni-resim.jpg" alt="">
                                     </div>
                                 </div>
 
