@@ -115,7 +115,7 @@ get_header(); ?>
                             </h5>
                         </header>
                         <div class="entry-content">
-                            <p>Verimli topraklardan, kalitesinden ödün vermeden<br> tedarik ediyoruz.</p>
+                            <p>Verimli topraklardan, kalitesinden ödün vermeden tedarik<br> ediyoruz.</p>
                         </div>
                     </div>
                     <footer class="entry-meta with_top_border darklinks">

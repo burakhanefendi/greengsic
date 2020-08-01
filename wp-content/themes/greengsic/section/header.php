@@ -43,21 +43,12 @@
 								</span>
                         </div>
                     </div>
-                    <div class="col-sm-4 col-xs-6 text-center">
+                    <div class="col-sm-4  text-center">
                         <div>
                             <a class="social-icon color-icon soc-facebook" href="#" title="Facebook"></a>
                             <a class="social-icon color-icon soc-twitter" href="#" title="Twitter"></a>
                             <a class="social-icon color-icon soc-instagram" href="#" title="Instagram"></a>
                         </div>
-                    </div>
-                    <div class="col-sm-4 col-xs-6 text-center">
-                        <!-- Example single danger button -->
-                        <select class="selectpicker" data-width="fit" style="color: #ffffff;">
-                            <option data-content='<span class="flag-icon flag-icon-us"></span> English'>Türkçe</option>
-                            <option  data-content='<span class="flag-icon flag-icon-mx"></span> Español'>İngilizce</option>
-                            <option  data-content='<span class="flag-icon flag-icon-mx"></span> Español'>Fransızca</option>
-
-                        </select>
                     </div>
 
                 </div>
@@ -166,6 +157,13 @@
                             <!-- contacts -->
                             <li>
                                 <a href="iletisim">Bize Ulaşın</a>
+                            </li>
+                            <li>
+                                <a href="#"><img style="width: 30px;" src="<?=get_template_directory_uri(); ?>/images/turkey.png"></a>
+                                <ul>
+                                    <li><a href="#"><img style="width: 30px;" src="<?=get_template_directory_uri(); ?>/images/uk.png"></a></li>
+                                    <li><a href="#"><img style="width: 30px;" src="<?=get_template_directory_uri(); ?>/images/flag.png"></a></li>
+                                </ul>
                             </li>
                             <!-- eof contacts -->
                         </ul>
