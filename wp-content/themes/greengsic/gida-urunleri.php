@@ -89,7 +89,7 @@ get_header(); ?>
                         <img src="/wp-content/uploads/2020/08/yemekik-yagar.jpg">
                     </div>
                     <h4 class="text-uppercase text-center">
-                        Yemeklik Yağlar
+                        YEMEKLİK YAĞLAR
                     </h4>
                     <p>
                     <ul style="text-align: left">
@@ -145,7 +145,7 @@ get_header(); ?>
                         <img src="/wp-content/uploads/2020/07/cay2222.jpg">
                     </div>
                     <h4 class="text-uppercase text-center">
-                        Çay (Çay Yaprakları ve Poşetleri)
+                        Çay (ÇAY YAPRAKLARI ve POŞETLERİ)
                     </h4>
 
                 </div>
@@ -156,7 +156,7 @@ get_header(); ?>
                         <img src="/wp-content/uploads/2020/07/rendeIenmis_hindistan_cevizi.jpg">
                     </div>
                     <h4 class="text-uppercase text-center">
-                        Rendelenmiş Hindistan Cevizi Tozu
+                        RENDELENMİŞ HİNDİSTAN CEVİZİ TOZU
                     </h4>
 
                 </div>
@@ -195,13 +195,6 @@ get_header(); ?>
                     <h4 class="text-uppercase text-center">
                         Susam
                     </h4>
-                    <p>
-                    <ul style="text-align: left">
-                        <li>
-                            Sudan
-                        </li>
-                    </ul>
-                    </p>
 
                 </div>
             </div>
