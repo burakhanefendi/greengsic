@@ -29,8 +29,8 @@
                                         </h4>
 
                                         <!-- .entry-meta -->
-
-                                        <p>2014 yılında İstanbul’da kurulan GREENSGIC, Müşterierimizin yatırım hedeferine ulaşmak, sürdürülebilir araştırma ve katılım uygulamalarımızı yatırım patformumuza entegre ederek, anlamlı hale getriyoruz. Gayrimenkul, Sanayi, Endüstriyel, yumuşak ürünler ve gıda ürünleri konusunda uzmanlaşmıştır.
+                                        <p><b>Sürdürülebilir yatırımlarda fırsatları görüyoruz</b></p>
+                                        <p>2014 yılında İstanbul’da kurulan GREENGSIC, müşterierimizin yatırım hedeferine ulaşmak, sürdürülebilir araştırma ve katılım uygulamalarımızı yatırım patformumuza entegre ederek, anlamlı hale getriyoruz. Gayrimenkul, Sanayi, Endüstriyel, yumuşak ürünler ve gıda ürünleri konusunda uzmanlaşmıştır.
                                         </p>
                                         <p><a href="/biz-kimiz/">Detaylı Bilgi</a></p>
                                     </div>
