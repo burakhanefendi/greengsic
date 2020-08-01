@@ -345,7 +345,7 @@ get_header(); ?>
                     <div class="item-content">
                         <header class="entry-header">
                             <h5 class="entry-title">
-                                <a href="blog-single-right.html">Lojistic</a>
+                                <a href="blog-single-right.html">Lojistik</a>
                             </h5>
                         </header>
                         <div class="entry-content">
