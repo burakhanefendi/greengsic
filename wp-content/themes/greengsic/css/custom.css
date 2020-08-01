@@ -70,4 +70,8 @@
     }
 }
 
+.header_left_logo .logo img {
+    max-width: 260px !important;
+}
+
 
