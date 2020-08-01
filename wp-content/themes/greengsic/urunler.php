@@ -50,7 +50,7 @@ get_header(); ?>
 
                 <article class="vertical-item content-padding text-center with_border rounded">
                     <div class="item-media top_rounded overflow_hidden">
-                        <img src="/wp-content/uploads/2020/07/08CAMPBELLS-facebookJumbo-v2.jpg" style="max-height: 140px" alt="">
+                        <img src="/wp-content/uploads/2020/07/istockphoto-172402388-612x612.jpg" style="max-height: 140px" alt="">
                         <div class="media-links">
                             <a href="blog-single-right.html" class="abs-link"></a>
                         </div>
@@ -76,7 +76,7 @@ get_header(); ?>
 
                 <article class="vertical-item content-padding text-center with_border rounded">
                     <div class="item-media top_rounded overflow_hidden">
-                        <img src="/wp-content/uploads/2020/07/istockphoto-172402388-612x612.jpg" style="max-height: 140px" alt="">
+                        <img src="/wp-content/uploads/2020/07/08CAMPBELLS-facebookJumbo-v2.jpg" style="max-height: 140px" alt="">
                         <div class="media-links">
                             <a href="blog-single-right.html" class="abs-link"></a>
                         </div>
@@ -88,7 +88,7 @@ get_header(); ?>
                             </h5>
                         </header>
                         <div class="entry-content">
-                            <p>Dünyanın seçkin ve zengin kaynaklarından sizin için gedirildi.</p>
+                            <p>Dünyanın seçkin ve zengin kaynaklarından sizin için getirildi.</p>
                         </div>
                     </div>
                     <footer class="entry-meta with_top_border darklinks">
