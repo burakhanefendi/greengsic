@@ -26,7 +26,6 @@
 }
 .fw_al_001_slide > p {
     color: #ffffff !important;
-    background-color: #0e75bc !important;
 }
 
 .fw_al_001_slide {
@@ -34,4 +33,24 @@
     bottom: 0% !important;
     text-align: left !important;
     width: 25% !important;
+}
+
+.fw_al_001_slide > div  > p {
+    color: white;
+    font-size: 37px;
+    letter-spacing: 1px;
+    font-weight: bold;
+    line-height: normal;
+    margin-top: 50px;
+    text-shadow: 2px 2px black;
+    font-family: 'Karla', sans-serif;
+}
+.vertical-item.content-padding footer {
+    padding: 5px 35px !important;
+}
+.entry-meta a {
+    padding: 5px !important;
+}
+.ls a {
+    color: #000000 !important;
 }

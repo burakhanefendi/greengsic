@@ -29,8 +29,9 @@
 
                 <!-- Slide Text Layer -->
                 <div class="fw_al_001_slide">
-                    <p style="color: white !important;" data-animation="animated fadeInUp"><?php the_content();?></p>
-
+                    <div class="bgop" style="background-color:rgb(14,117,188,.5);">
+                            <p style="color: white !important; opacity: 100%" data-animation="animated fadeInUp"><?php the_content();?></p>
+                    </div>
                 </div>
             </div>
         <?php endwhile; wp_reset_postdata(); ?>        <!-- End of Slide -->

@@ -23,7 +23,7 @@ get_header(); ?>
     </div>
 </section>
 
-<section class="ls page_portfolio section section_padding_bottom_10 columns_padding_25 columns_margin_bottom_30">
+<section class="ls page_portfolio section section_padding_bottom_10 columns_padding_25 columns_margin_bottom_30" style="margin-top: 20px">
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-md-push-6">
@@ -164,7 +164,7 @@ get_header(); ?>
                             </h5>
                         </header>
                         <div class="entry-content">
-                            <p>Sürdürülebilir enerjide dünyanın en verimli kaynakarını sizin sunuyoruz.
+                            <p>Sürdürülebilir enerjide dünyanın en verimli kaynakarını size sunuyoruz.
                             </p>
                         </div>
                     </div>
