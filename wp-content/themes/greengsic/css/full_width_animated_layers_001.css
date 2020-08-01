@@ -122,9 +122,6 @@
 }
 /*---------- SLIDE CAPTION ----------*/
 .fw_al_001_slide {
-  left: 0;
-  top: 25%;
-  right: 0;
   width: 65%;
   margin: auto;
   position: absolute;
