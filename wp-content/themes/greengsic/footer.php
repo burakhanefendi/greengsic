@@ -51,7 +51,7 @@
 
                     <p>
                         <i class="fa fa-map-marker highlight rightpadding_5" aria-hidden="true"></i>GREENGSIC GRUP KURUMSAL HİZMETLER DANIŞMANLIK SAN. TİC. LTD. ŞTİ.<br>
-                        Akevler Mah., 1069. Sk. Fitura Park Sitesi E3 Blok No: 9 E İç Kapı No: 141 P.K. 34513
+                        Akevler Mah., 1069. Sk. Fitura Park Sitesi E3 Blok No: 9 E İç Kapı No: 141 P.K. 34513<br>
                         Esenyurt-İstanbul
                     </p>
                     <p>
