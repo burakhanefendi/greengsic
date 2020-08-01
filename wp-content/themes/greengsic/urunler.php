@@ -78,13 +78,13 @@ get_header(); ?>
                     <div class="item-media top_rounded overflow_hidden">
                         <img src="/wp-content/uploads/2020/07/08CAMPBELLS-facebookJumbo-v2.jpg" style="max-height: 140px" alt="">
                         <div class="media-links">
-                            <a href="/diger-gida-urunleri/" class="abs-link"></a>
+                            <a href="/markalar/" class="abs-link"></a>
                         </div>
                     </div>
                     <div class="item-content">
                         <header class="entry-header">
                             <h5 class="entry-title">
-                                <a href="/diger-gida-urunleri/">Diğer Gıda Ürünleri</a>
+                                <a href="/markalar/">Diğer Gıda Ürünleri</a>
                             </h5>
                         </header>
                         <div class="entry-content">
@@ -93,7 +93,7 @@ get_header(); ?>
                         </div>
                     </div>
                     <footer class="entry-meta with_top_border darklinks">
-                        <a class="btn btn-default btn-lg" href="/diger-gida-urunleri/">Detaylı Bilgi</a>
+                        <a class="btn btn-default btn-lg" href="/markalar/">Detaylı Bilgi</a>
                     </footer>
                 </article>
 
