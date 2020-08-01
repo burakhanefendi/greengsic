@@ -80,39 +80,5 @@
             </div>
         </section>
 
-      <section class="intro_section page_mainslider ds">
-    <div class="flexslider" data-nav="false">
-        <ul class="slides">
-
-            <li>
-                <img src="/wp-content/uploads/2020/07/harita.png" alt="">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-12">
-                            <div class="slide_description_wrapper" style="text-align: center">
-                                <div class="slide_description">
-                                    <div class="intro-layer" data-animation="fadeInUp">
-                                        <h3 class="text-uppercase" style="text-shadow: 2px 2px #000000;">
-                                            ÖNCELİĞİMİZ DÜNYA PAZARINA<br> ÜSTÜN VE KALİTELİ ÜRÜNLER SAĞLAMAK
-
-                                        </h3>
-                                    </div>
-                                </div>
-                                <!-- eof .slide_description -->
-                            </div>
-                            <!-- eof .slide_description_wrapper -->
-                        </div>
-                        <!-- eof .col-* -->
-                    </div>
-                    <!-- eof .row -->
-                </div>
-                <!-- eof .container -->
-            </li>
-
-        </ul>
-    </div>
-    <!-- eof flexslider -->
-
-</section>
 
      <?=get_footer(); ?>
