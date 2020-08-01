@@ -205,6 +205,17 @@ get_header(); ?>
 
                 </div>
             </div>
+            <div class="col-md-4">
+                <div class="teaser with_border text-center">
+                    <div class="teaser_icon highlight size_small">
+                        <img src="/wp-content/uploads/2020/07/et_tavuk.jpg">
+                    </div>
+                    <h4 class="text-uppercase text-center">
+                        Dondurulmuş Et, Tavuk ve Yumurta
+                    </h4>
+
+                </div>
+            </div>
 
         </div>
     </div>
