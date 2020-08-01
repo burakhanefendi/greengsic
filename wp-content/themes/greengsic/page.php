@@ -18,7 +18,7 @@
 				</div>
 			</section>
 
-			<section class="ls page_portfolio section section_padding_bottom_10 columns_padding_25 columns_margin_bottom_30">
+			<section class="ls page_portfolio section section_padding_bottom_10 columns_padding_25 columns_margin_bottom_30" style="margin-top: 30px">
 				<div class="container">
 					<div class="row">
                         <div class="col-md-6 col-md-push-6">
