@@ -58,7 +58,6 @@
                             <option data-content='<span class="flag-icon flag-icon-us"></span> English'>Türkçe</option>
                             <option  data-content='<span class="flag-icon flag-icon-mx"></span> Español'>İngilizce</option>
                             <option  data-content='<span class="flag-icon flag-icon-mx"></span> Español'>Fransızca</option>
-                            <option  data-content='<span class="flag-icon flag-icon-mx"></span> Español'>Arapça</option>
 
                         </select>
                     </div>
