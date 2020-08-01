@@ -68,6 +68,9 @@
     .page_topline .col-xs-6 {
         float: left;
     }
+    .fw_al_001_slide > div  > p {
+        font-size: 17px !important;
+    }
 }
 
 .header_left_logo .logo img {
