@@ -62,7 +62,7 @@
                                         <!-- .entry-meta -->
 
                                         <p>
-                                            GREENSGIC  olarak toplu vizede yumuşak emtialar üretiyoruz. Şeker, Pirinç, Buğday, Soya ve Gıda Ürünleri, Sıvı ve Katı Yağlar, Süt ürünleri, hayvancılık, et, üreticilerden Distribütörlere ve Perakendecilere kadar müşterileri kapsayan gıda endüstrilerine tedarik sağlıyoruz. GREENSGIC, Endüstriyel ürünler ve Sanayi söktöründe köklü bir geçmişe sahiptir ve müşterilerine ürün yelpazesini her geçen gün genişleterek, kendilerini özel olduklarını hissettirmektedir.
+                                            GREENGSIC  olarak toplu vizede yumuşak emtialar üretiyoruz. Şeker, Pirinç, Buğday, Soya ve Gıda Ürünleri, Sıvı ve Katı Yağlar, Süt ürünleri, hayvancılık, et, üreticilerden Distribütörlere ve Perakendecilere kadar müşterileri kapsayan gıda endüstrilerine tedarik sağlıyoruz. GREENGSIC, Endüstriyel ürünler ve Sanayi söktöründe köklü bir geçmişe sahiptir ve müşterilerine ürün yelpazesini her geçen gün genişleterek, kendilerini özel olduklarını hissettirmektedir.
                                         </p>
                                         <p>
                                             <a href="/urunlere-genel-bakis/" rel="bookmark">Detaylı Bilgi</a>
