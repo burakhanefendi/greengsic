@@ -24,3 +24,7 @@
 .teaser_icon img {
     height: 200px !important;
 }
+.fw_al_001_slide > p {
+    color: #ffffff !important;
+    background-color: #0e75bc !important;
+}
