@@ -54,3 +54,9 @@
 .ls a {
     color: #000000 !important;
 }
+.entry-content p {
+    text-align: left !important;
+}
+.vertical-item.content-padding .item-content {
+    padding: 10px !important;
+}

@@ -88,7 +88,8 @@ get_header(); ?>
                             </h5>
                         </header>
                         <div class="entry-content">
-                            <p>Dünyanın seçkin ve zengin kaynaklarından sizin için getirildi.</p>
+                            <p>Dünyanın seçkin ve zengin kaynaklarından sizin için<br>
+                                getirildi.</p>
                         </div>
                     </div>
                     <footer class="entry-meta with_top_border darklinks">
@@ -114,7 +115,7 @@ get_header(); ?>
                             </h5>
                         </header>
                         <div class="entry-content">
-                            <p>Verimli topraklardan, kalitesinden ödün mermeden tedarik ediyoruz.</p>
+                            <p>Verimli topraklardan, kalitesinden ödün vermeden<br> tedarik ediyoruz.</p>
                         </div>
                     </div>
                     <footer class="entry-meta with_top_border darklinks">
@@ -218,7 +219,9 @@ get_header(); ?>
                             </h5>
                         </header>
                         <div class="entry-content">
-                            <p>İnşaat ve Altyapı hizmetlerinde ekonomik çözüm ve imkanı.
+                            <p>
+                                İnşaat Üstyapı ve Altyapı hizmetlerinde ekonomik<br>
+                                çözüm ve imkan.
                             </p>
                         </div>
                     </div>
