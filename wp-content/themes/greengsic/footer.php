@@ -50,9 +50,9 @@
                     <h3 class="widget-title">İLETİŞİM BİLGİLERİMİZ</h3>
 
                     <p>
-                        <i class="fa fa-map-marker highlight rightpadding_5" aria-hidden="true"></i> Future Park Istanbul<br>
-                        Akevler Mah., 1069. Sok., No:9I, E-block 17. kat D141 Esenyurt,
-                        İstanbul, Turkey
+                        <i class="fa fa-map-marker highlight rightpadding_5" aria-hidden="true"></i>GREENGSIC GRUP KURUMSAL HİZMETLER DANIŞMANLIK SAN. TİC. LTD. ŞTİ.<br>
+                        Akevler Mah., 1069. Sk. Fitura Park Sitesi E3 Blok No: 9 E İç Kapı No: 141 P.K. 34513
+                        Esenyurt-İstanbul
                     </p>
                     <p>
                         <i class="fa fa-phone highlight rightpadding_5" aria-hidden="true"></i> +90 543 410 80 58
