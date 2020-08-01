@@ -165,6 +165,12 @@
                                     <li><a href="#"><img style="width: 30px;" src="<?=get_template_directory_uri(); ?>/images/flag.png"></a></li>
                                 </ul>
                             </li>
+                            <li class="desk-hidden">
+                                <a style="float: left" class="social-icon color-icon soc-facebook" href="#" title="Facebook"></a>
+                                <a style="float: left" class="social-icon color-icon soc-twitter" href="#" title="Twitter"></a>
+                                <a style="float: left" class="social-icon color-icon soc-instagram" href="#" title="Instagram"></a>
+
+                            </li>
                             <!-- eof contacts -->
                         </ul>
                     </nav>
