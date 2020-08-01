@@ -70,7 +70,7 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-12 text-center">
-                <p class="small-text bold">&copy; Copyright 2020 All Rights Reserved | Designer <a href="https://espassistanbul.com">Espass İstanbul</a></p>
+                <p class="small-text bold">&copy; Copyright 2020 All Rights Reserved |  <a href="https://espassistanbul.com">Espass İstanbul</a></p>
             </div>
         </div>
     </div>
