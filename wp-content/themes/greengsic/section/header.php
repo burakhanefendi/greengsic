@@ -48,6 +48,8 @@
                             <a class="social-icon color-icon soc-facebook" href="https://www.facebook.com/Greengsic-Grup-Kurumsal-Hizmetler-Dan%C4%B1%C5%9Fmanl%C4%B1k-San-Tic-Ltd-%C5%9Eti-104592194688766/?modal=admin_todo_tour" title="Facebook"></a>
                             <a class="social-icon color-icon soc-twitter" href="https://twitter.com/greengsic" title="Twitter"></a>
                             <a class="social-icon color-icon soc-instagram" href="https://www.instagram.com/greengsic/" title="Instagram"></a>
+                            <a class="social-icon color-icon soc-linkedin" href="https://www.linkedin.com/in/greengsic-group-service-logistics-company-68190a1b3/" title="Lınkedn"></a>
+
                         </div>
                     </div>
                     <div class="col-sm-4 text-center mobile-hidden">
@@ -182,6 +184,9 @@
                             </li>
                             <li class="desk-hidden" style="width: 25%; float: left;">
                                 <a class="social-icon color-icon soc-instagram" href="https://www.instagram.com/greengsic/" title="Instagram"></a>
+                            </li>
+                            <li class="desk-hidden" style="width: 25%; float: left;">
+                                <a class="social-icon color-icon soc-linkedin" href="https://www.linkedin.com/in/greengsic-group-service-logistics-company-68190a1b3/" title="Lınkedn"></a>
                             </li>
 
                             <!-- eof contacts -->
