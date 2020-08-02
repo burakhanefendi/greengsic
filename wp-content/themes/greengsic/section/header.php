@@ -55,9 +55,9 @@
                     <div class="col-sm-4 text-center mobile-hidden">
                         <!-- Example single danger button -->
                         <nav>
-                            <ul class="sf-menu">
-                                <li>
-                                    <a href="#"><img style="width: 30px;" src="<?=get_template_directory_uri(); ?>/images/turkey.png"> TURKISH</a>
+                            <ul class="sf-menu" style="height: 50px">
+                                <li style="height: 50px">
+                                    <a style="padding: 10px 0 0 0 !important;" href="#"><img style="width: 30px;" src="<?=get_template_directory_uri(); ?>/images/turkey.png"> TURKISH</a>
                                     <ul>
                                         <li><a href="#"><img style="width: 30px;" src="<?=get_template_directory_uri(); ?>/images/uk.png"> ENGLISH</a></li>
                                         <li><a href="#"><img style="width: 30px;" src="<?=get_template_directory_uri(); ?>/images/flag.png"> FRANCHIS</a></li>
