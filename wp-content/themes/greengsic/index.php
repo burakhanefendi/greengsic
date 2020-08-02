@@ -5,7 +5,7 @@
         <?php include('section/slider2.php') ?>
 
 
-        <section class="ls section_padding_top_30 section_padding_bottom_150">
+        <section class="ls section_padding_top_30 section_padding_bottom_50">
             <div class="container" style="padding-top: 0 !important;">
                 <div class="row">
                     <div class="col-sm-12">
