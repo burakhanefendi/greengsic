@@ -12,7 +12,7 @@ get_header(); ?>
     }
 </style>
 
-<section class="page_breadcrumbs  section_padding_top_50 section_padding_bottom_50" style="height: 200px">
+<section class="page_breadcrumbs cs section_padding_top_50 section_padding_bottom_50" style="height: 200px">
     <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
     <div class="container">
         <div class="row">
