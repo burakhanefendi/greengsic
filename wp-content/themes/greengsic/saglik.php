@@ -7,12 +7,12 @@
 get_header(); ?>
 
 <style>
-    .page_breadcrumbs.parallax {
+    .page_breadcrumbs{
         background-image: url("<?php echo get_post_meta($post->ID, "banner_img", true); ?>");
     }
 </style>
 
-<section class="page_breadcrumbs cs gradient2 parallax section_padding_top_50 section_padding_bottom_50" style="height: 200px">
+<section class="page_breadcrumbs  section_padding_top_50 section_padding_bottom_50" style="height: 200px">
     <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
     <div class="container">
         <div class="row">
