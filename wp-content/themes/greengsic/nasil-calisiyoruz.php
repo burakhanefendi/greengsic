@@ -44,7 +44,7 @@ get_header(); ?>
                         <i class="rt-icon2-directions_ferry"  style="font-size: 60px"></i>
                     </div>
                     <h4 class="text-uppercase text-center">
-                        Tedarik Sağlama
+                        TEDARİK SAĞLAMA
                     </h4>
                     <p>
                         <ul style="text-align: left">
@@ -68,7 +68,7 @@ get_header(); ?>
                         <i class="rt-icon2-chart-bar-outline" style="font-size: 60px"></i>
                     </div>
                     <h4 class="text-uppercase text-center">
-                        Strateji
+                        STRATEJİ
                     </h4>
                     <p>
                         <ul style="text-align: left">
