@@ -47,7 +47,7 @@
                         <div>
                             <a class="social-icon color-icon soc-facebook" href="#" title="Facebook"></a>
                             <a class="social-icon color-icon soc-twitter" href="https://twitter.com/greengsic" title="Twitter"></a>
-                            <a class="social-icon color-icon soc-instagram" href="#" title="Instagram"></a>
+                            <a class="social-icon color-icon soc-instagram" href="https://www.instagram.com/greengsic/" title="Instagram"></a>
                         </div>
                     </div>
                     <div class="col-sm-4 text-center mobile-hidden">
@@ -181,7 +181,7 @@
                                 <a class="social-icon color-icon soc-twitter" href="https://twitter.com/greengsic" title="Twitter"></a>
                             </li>
                             <li class="desk-hidden" style="width: 25%; float: left;">
-                                <a class="social-icon color-icon soc-instagram" href="#" title="Instagram"></a>
+                                <a class="social-icon color-icon soc-instagram" href="https://www.instagram.com/greengsic/" title="Instagram"></a>
                             </li>
 
                             <!-- eof contacts -->
