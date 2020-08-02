@@ -43,7 +43,7 @@
 								</span>
                         </div>
                     </div>
-                    <div class="col-sm-4 text-center">
+                    <div class="col-sm-4 text-center mobile-hidden">
                         <div>
                             <a class="social-icon color-icon soc-facebook" href="#" title="Facebook"></a>
                             <a class="social-icon color-icon soc-twitter" href="#" title="Twitter"></a>
