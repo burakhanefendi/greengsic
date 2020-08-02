@@ -46,7 +46,7 @@
                     <div class="col-sm-4 text-center mobile-hidden">
                         <div>
                             <a class="social-icon color-icon soc-facebook" href="#" title="Facebook"></a>
-                            <a class="social-icon color-icon soc-twitter" href="#" title="Twitter"></a>
+                            <a class="social-icon color-icon soc-twitter" href="https://twitter.com/greengsic" title="Twitter"></a>
                             <a class="social-icon color-icon soc-instagram" href="#" title="Instagram"></a>
                         </div>
                     </div>
@@ -178,7 +178,7 @@
                                 <a class="social-icon color-icon soc-facebook" href="#" title="Facebook"></a>
                             </li>
                             <li class="desk-hidden" style="width: 25%; float: left;">
-                                <a class="social-icon color-icon soc-twitter" href="#" title="Twitter"></a>
+                                <a class="social-icon color-icon soc-twitter" href="https://twitter.com/greengsic" title="Twitter"></a>
                             </li>
                             <li class="desk-hidden" style="width: 25%; float: left;">
                                 <a class="social-icon color-icon soc-instagram" href="#" title="Instagram"></a>
