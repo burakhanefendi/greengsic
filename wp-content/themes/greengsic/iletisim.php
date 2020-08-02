@@ -17,7 +17,7 @@ get_header(); ?>
 
                 <h3 class="text-capitalize">İletişim Formu</h3>
 
-                <form class="contact-form row columns_padding_10" method="post" action="./">
+                <form class="contact-form row columns_padding_10" method="post" action="<?php the_permalink(); ?>">
                     <div class="col-sm-6">
                         <div class="contact-form-name">
                             <label for="name">Full Name
