@@ -52,7 +52,7 @@
                     </div>
                     <div class="col-sm-4 text-center mobile-hidden">
                         <!-- Example single danger button -->
-                        <select class="selectpicker" data-width="fit" style="color: #ffffff;">
+                        <select class="selectpicker" data-width="fit" style="color: #ffffff; height: 40px !important;">
                             <option data-content='<span class="flag-icon flag-icon-us"></span> English'>Türkçe</option>
                             <option  data-content='<span class="flag-icon flag-icon-mx"></span> Español'>İngilizce</option>
                             <option  data-content='<span class="flag-icon flag-icon-mx"></span> Español'>Arapça</option>
