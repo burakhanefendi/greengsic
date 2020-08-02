@@ -45,7 +45,7 @@
                     </div>
                     <div class="col-sm-4 text-center mobile-hidden">
                         <div>
-                            <a class="social-icon color-icon soc-facebook" href="#" title="Facebook"></a>
+                            <a class="social-icon color-icon soc-facebook" href="https://www.facebook.com/Greengsic-Grup-Kurumsal-Hizmetler-Dan%C4%B1%C5%9Fmanl%C4%B1k-San-Tic-Ltd-%C5%9Eti-104592194688766/?modal=admin_todo_tour" title="Facebook"></a>
                             <a class="social-icon color-icon soc-twitter" href="https://twitter.com/greengsic" title="Twitter"></a>
                             <a class="social-icon color-icon soc-instagram" href="https://www.instagram.com/greengsic/" title="Instagram"></a>
                         </div>
@@ -175,7 +175,7 @@
                                 </ul>
                             </li>
                             <li class="desk-hidden" style="width: 25%; float: left;">
-                                <a class="social-icon color-icon soc-facebook" href="#" title="Facebook"></a>
+                                <a class="social-icon color-icon soc-facebook" href="https://www.facebook.com/Greengsic-Grup-Kurumsal-Hizmetler-Dan%C4%B1%C5%9Fmanl%C4%B1k-San-Tic-Ltd-%C5%9Eti-104592194688766/?modal=admin_todo_tour" title="Facebook"></a>
                             </li>
                             <li class="desk-hidden" style="width: 25%; float: left;">
                                 <a class="social-icon color-icon soc-twitter" href="https://twitter.com/greengsic" title="Twitter"></a>
