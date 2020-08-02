@@ -57,7 +57,7 @@
                         <select class="selectpicker" data-width="fit" style="color: #ffffff; height: 40px !important;">
                             <option data-content='<span class="flag-icon flag-icon-us"></span> English'>Türkçe</option>
                             <option  data-content='<span class="flag-icon flag-icon-mx"></span> Español'>İngilizce</option>
-                            <option  data-content='<span class="flag-icon flag-icon-mx"></span> Español'>Arapça</option>
+                            <option  data-content='<span class="flag-icon flag-icon-mx"></span> Español'>Fransızca</option>
 
                         </select>
                     </div>
@@ -107,7 +107,7 @@
                             <!-- eof pages -->
 
                             <li class="submenu">
-                                <a href="#">Ürünler</a>
+                                <a href="#">ÜRÜNLER</a>
                                 <ul>
                                     <li>
                                         <a href="/urunlere-genel-bakis/">Ürünlere Genel Bakış</a>
@@ -161,13 +161,13 @@
 
                             <!-- blog -->
                             <li>
-                                <a href="/tesisler">Tesisler</a>
+                                <a href="/tesisler">TESİSLER</a>
                             </li>
                             <!-- eof blog -->
 
                             <!-- contacts -->
                             <li>
-                                <a href="iletisim">Bize Ulaşın</a>
+                                <a href="iletisim">BİZE ULAŞIN</a>
                             </li>
                             <li>
                                 <a href="#"><img style="width: 30px;" src="<?=get_template_directory_uri(); ?>/images/turkey.png"></a>
