@@ -43,12 +43,21 @@
 								</span>
                         </div>
                     </div>
-                    <div class="col-sm-4  text-center">
+                    <div class="col-sm-4 text-center">
                         <div>
                             <a class="social-icon color-icon soc-facebook" href="#" title="Facebook"></a>
                             <a class="social-icon color-icon soc-twitter" href="#" title="Twitter"></a>
                             <a class="social-icon color-icon soc-instagram" href="#" title="Instagram"></a>
                         </div>
+                    </div>
+                    <div class="col-sm-4 text-center mobile-hidden">
+                        <!-- Example single danger button -->
+                        <select class="selectpicker" data-width="fit" style="color: #ffffff;">
+                            <option data-content='<span class="flag-icon flag-icon-us"></span> English'>Türkçe</option>
+                            <option  data-content='<span class="flag-icon flag-icon-mx"></span> Español'>İngilizce</option>
+                            <option  data-content='<span class="flag-icon flag-icon-mx"></span> Español'>Arapça</option>
+
+                        </select>
                     </div>
 
                 </div>
@@ -165,15 +174,20 @@
                                     <li><a href="#"><img style="width: 30px;" src="<?=get_template_directory_uri(); ?>/images/flag.png"></a></li>
                                 </ul>
                             </li>
-                            <li class="desk-hidden">
-                                <a style="float: left" class="social-icon color-icon soc-facebook" href="#" title="Facebook"></a>
-                                <a style="float: left" class="social-icon color-icon soc-twitter" href="#" title="Twitter"></a>
-                                <a style="float: left" class="social-icon color-icon soc-instagram" href="#" title="Instagram"></a>
-
+                            <li class="desk-hidden" style="width: 25%; float: left;">
+                                <a class="social-icon color-icon soc-facebook" href="#" title="Facebook"></a>
                             </li>
+                            <li class="desk-hidden" style="width: 25%; float: left;">
+                                <a class="social-icon color-icon soc-twitter" href="#" title="Twitter"></a>
+                            </li>
+                            <li class="desk-hidden" style="width: 25%; float: left;">
+                                <a class="social-icon color-icon soc-instagram" href="#" title="Instagram"></a>
+                            </li>
+
                             <!-- eof contacts -->
                         </ul>
                     </nav>
+
                     <!-- eof main nav -->
                     <!-- header toggler -->
                     <span class="toggle_menu">
