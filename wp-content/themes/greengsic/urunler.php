@@ -88,8 +88,7 @@ get_header(); ?>
                             </h5>
                         </header>
                         <div class="entry-content">
-                            <p>Dünyanın seçkin ve zengin kaynaklarından sizin için<br>
-                                getirildi.</p>
+                            <p>Dünyanın en taze ve kaliteli, zengin kaynaklarını sizin için toplayıp bir araya getirdik.</p>
                         </div>
                     </div>
                     <footer class="entry-meta with_top_border darklinks">
@@ -215,13 +214,12 @@ get_header(); ?>
                     <div class="item-content">
                         <header class="entry-header">
                             <h5 class="entry-title">
-                                <a href="/insaat-altyapi/">İnşaat Altyapı</a>
+                                <a href="/insaat-altyapi/">İnşaat ve Altyapı</a>
                             </h5>
                         </header>
                         <div class="entry-content">
                             <p>
-                                İnşaat Üstyapı ve Altyapı hizmetlerinde ekonomik<br>
-                                çözüm ve imkan.
+                                İnşaat Üstyapı ve Altyapı hizmetlerinde ekonomik çözüm ve imkan.
                             </p>
                         </div>
                     </div>
@@ -247,7 +245,7 @@ get_header(); ?>
                             </h5>
                         </header>
                         <div class="entry-content">
-                            <p>Dünyanın en gelişmiş, sağlık alanındaki tüm olanakarı sizin için buluyoruz
+                            <p>Dünyanın en gelişmiş, sağlık alanındaki teknolojik olanakları sizin için buluyor ve sunuyoruz.
                             </p>
                         </div>
                     </div>
@@ -326,7 +324,7 @@ get_header(); ?>
                             </h5>
                         </header>
                         <div class="entry-content">
-                            <p>Geniş ürün gamı ve ürün yelpazesiyle tekstilde birçok noktada sizin yanınızdayız.
+                            <p>Geniş ürün gamı ve yelpazesiyle tekstilde birçok alanda sizin yanınızdayız.
                             </p>
                         </div>
                     </div>
