@@ -30,7 +30,7 @@
 
                                         <!-- .entry-meta -->
                                         <p><b>Sürdürülebilir yatırımlarda fırsatları görüyoruz</b></p>
-                                        <p>2014 yılında İstanbul’da kurulan GREENGSIC, müşterierimizin yatırım hedeferine ulaşmak, sürdürülebilir araştırma ve katılım uygulamalarımızı yatırım patformumuza entegre ederek, anlamlı hale getriyoruz. Gayrimenkul, Sanayi, Endüstriyel, yumuşak ürünler ve gıda ürünleri konusunda uzmanlaşmıştır.
+                                        <p>2012 yılında İstanbul’da kurulan GREENGSIC, müşterilerimizin yatırım hedeferine ulaştırmak, sürdürülebilir araştırma ve katılım uygulamalarımızı yatırım patformumuza entegre ediyoruz. Grup olarak bir dış ticaret şirketiyiz ve genel olarak İthalat ve İhracat ile uğraşmaktayız. Piyasadan gelen talepler ve doğan yeni fırsatlar neticesinde Gayrimenkul, Sanayi, Endüstriyel, yumuşak ürünler ve gıda ürünleri konusunda malzemeler tedarik ve üreten uzmanlaşmış küresel ticaret yapan bir şirkettir.
                                         </p>
                                         <p><a href="/biz-kimiz/">Detaylı Bilgi</a></p>
                                     </div>
@@ -48,7 +48,7 @@
 
                                 <div class="col-md-6 col-md-push-6">
                                     <div class="item-media entry-thumbnail top_rounded overflow_hidden">
-                                        <img src="/wp-content/uploads/2020/07/werqwe-1.png" alt="">
+                                        <img src="/wp-content/uploads/2020/08/anasfya_bakis.jpg" alt="">
                                     </div>
                                 </div>
 
@@ -62,8 +62,7 @@
                                         <!-- .entry-meta -->
 
                                         <p>
-                                            GREENGSIC  olarak toplu vizede yumuşak emtialar üretiyoruz. Şeker, Pirinç, Buğday, Soya ve Gıda Ürünleri, Sıvı ve Katı Yağlar, Süt ürünleri, hayvancılık, et, üreticilerden Distribütörlere ve Perakendecilere kadar müşterileri kapsayan gıda endüstrilerine tedarik sağlıyoruz. GREENGSIC, Endüstriyel ürünler ve Sanayi söktöründe köklü bir geçmişe sahiptir ve müşterilerine ürün yelpazesini her geçen gün genişleterek, kendilerini özel olduklarını hissettirmektedir.
-                                        </p>
+                                            GREENGSIC gayrimenkul, sanayi, endüstriyel, otomotiv, tekstil, sağlık turizmi, eğitim, turizm, lojistik ve yumuşak emtia ve gıda söktöründe köklü bir geçmişe sahiptir ve ürün yelpazesini her geçen gün genişleterek müşterilerine çeşitli tedarikler sağlayarak kendilerini özel olduklarını hissettirmektedir. GREENGSIC iş geliştirme alanlarında ve piyasadaki en kaliteli ürün ve hizmetleri sunan, insanların güven ve beklentilerini karşılamaya hedef haline getirmiştir ve teknolojik yenilikleri hızla benimser, kendi know-how işimizi geliştirir ve sunarız.                                        </p>
                                         <p>
                                             <a href="/urunlere-genel-bakis/" rel="bookmark">Detaylı Bilgi</a>
                                         </p>
