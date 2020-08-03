@@ -59,8 +59,8 @@
                                 <li style="height: 50px">
                                     <a style="padding: 10px 0 0 0 !important;" href="#">TR <i class="rt-icon2-chevron-down"></i></a>
                                     <ul>
-                                        <li><a href="#">EN</a></li>
-                                        <li><a href="#">FR</a></li>
+                                        <li><a href="https://en.greengsic.com">EN</a></li>
+                                        <li><a href="https://fr.greengsic.com">FR</a></li>
                                     </ul>
                                 </li>
                             </ul>
