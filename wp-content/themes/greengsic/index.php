@@ -64,6 +64,7 @@
                                         <p>
                                             GREENGSIC gayrimenkul, sanayi, endüstriyel, otomotiv, tekstil, sağlık turizmi, eğitim, turizm, lojistik ve yumuşak emtia ve gıda söktöründe köklü bir geçmişe sahiptir ve ürün yelpazesini her geçen gün genişleterek müşterilerine çeşitli tedarikler sağlayarak kendilerini özel olduklarını hissettirmektedir. GREENGSIC iş geliştirme alanlarında ve piyasadaki en kaliteli ürün ve hizmetleri sunan, insanların güven ve beklentilerini karşılamaya hedef haline getirmiştir ve teknolojik yenilikleri hızla benimser, kendi know-how işimizi geliştirir ve sunarız.                                        </p>
                                         <p>
+                                            <br><br><br><br><br>
                                             <a href="/urunlere-genel-bakis/" rel="bookmark">Detaylı Bilgi</a>
                                         </p>
 
