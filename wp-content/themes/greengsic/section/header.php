@@ -177,8 +177,8 @@
                             <li class="desk-hidden">
                                 <a href="#">TR</a>
                                 <ul>
-                                    <li><a href="#">EN</a></li>
-                                    <li><a href="#">FR</a></li>
+                                    <li><a href="https://en.greengsic.com">EN</a></li>
+                                    <li><a href="https://fr.greengsic.com">FR</a></li>
                                 </ul>
                             </li>
                             <li class="desk-hidden" style="width: 25%; float: left;">
