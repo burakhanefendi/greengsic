@@ -8,11 +8,10 @@
                         <img src="/wp-content/uploads/2020/07/disi_Iogo.png">
                     </a>
                     <p>
-                        2014 yılında İstanbul’da kurulan GREENGSIC, Gayrimenkul, Sanayi, Endüstriyel, yumuşak ürünler ve gıda ürünleri konusunda uzmanlaşmıştır.
-                    </p>
+                        Greengsic’in liderliği, tedarik ve lojistik konularında deneyimli, yenilikçi teknikleri ve son teknolojileri kullanmaktadır.  Grup olarak dış ticaret şirketiyiz ve İthalat - İhracat ile uğraşmaktayız. Döviz piyasalarında etkin bir şekilde ticaret sunuyoruz.                    </p>
 
                     <div class="topmargin_30">
-                        <a class="social-icon color-icon soc-facebook" href="https://www.facebook.com/Greengsic-Grup-Kurumsal-Hizmetler-Dan%C4%B1%C5%9Fmanl%C4%B1k-San-Tic-Ltd-%C5%9Eti-104592194688766/?modal=admin_todo_tour" title="Facebook"></a>
+                        <a class="social-icon color-icon soc-facebook" href="https://www.facebook.com/Greengsic-%C4%B0nvestment-Corporate-Trading-213855193345143/?modal=admin_todo_tour" title="Facebook"></a>
                         <a class="social-icon color-icon soc-twitter" href="https://twitter.com/greengsic" title="Twitter"></a>
                         <a class="social-icon color-icon soc-instagram" href="https://www.instagram.com/greengsic/" title="Instagram"></a>
                         <a class="social-icon color-icon soc-linkedin" href="https://www.linkedin.com/in/greengsic-group-service-logistics-company-68190a1b3/" title="Lınkedn"></a>
