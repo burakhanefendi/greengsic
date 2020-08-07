@@ -8,7 +8,8 @@
                         <img src="/wp-content/uploads/2020/07/disi_Iogo.png">
                     </a>
                     <p>
-                        Greengsic’in liderliği, tedarik ve lojistik konularında deneyimli, yenilikçi teknikleri ve son teknolojileri kullanmaktadır.  Grup olarak dış ticaret şirketiyiz ve İthalat - İhracat ile uğraşmaktayız. Döviz piyasalarında etkin bir şekilde ticaret sunuyoruz.                    </p>
+                        2012 yılından bu yana, Grup gelişmekte olan sektörlere malzeme tedarik eden ve üreten özel küresel şirkettir .
+                    </p>
 
                     <div class="topmargin_30">
                         <a class="social-icon color-icon soc-facebook" href="https://www.facebook.com/Greengsic-%C4%B0nvestment-Corporate-Trading-213855193345143/?modal=admin_todo_tour" title="Facebook"></a>
